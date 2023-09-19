@@ -1,1 +1,7 @@
-# Meme
+- # Meme
+- 🙋‍♀️ Hi, I'm Maria Andrea De Leon
+- 📚 3rd Year student
+- 💻 interested in Programming
+- 💭 I have basic knowledge in Vb, Python and Html
+- 👍🏻 Efficient in MySql
+- 🧩I'm interested in learning more programming language.. 
